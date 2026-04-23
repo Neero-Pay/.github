@@ -1,6 +1,8 @@
 ## 🎯 Purpose
+<--To be Filled by PR Author-->
 
 ## 🛠️ Proposed Changes
+<--To be Filled by PR Author-->
 
 ## 📏 PR Size Audit
 
