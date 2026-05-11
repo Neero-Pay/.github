@@ -18,9 +18,12 @@
 
 - [ ] **Atomic:** This PR is focused on a single change or feature. I have removed all unrelated "drive-by" refactors or
   formatting changes. If there are formatting or variable changes move them in a separate PR.
-- [ ] **Clean:** I have removed all `console.log`, `TODOs`, and commented-out code.
+- [ ] **Clean:** I have removed all `TODOs`, and commented-out code.
 - [ ] **Verified:** I have tested this manually in the dev environment.
 - [ ] **Readable:** I have reviewed this PR myself and added comments to complex logic or "weird" workarounds.
+
+## Additional Notes
+<-- You can describe any additional context for the non respect of any of the above checklist items here. -->
 
 ---
 > **Note to Reviewer:** If the checklist above is incomplete, please feel free to return this PR to "Draft" status.
